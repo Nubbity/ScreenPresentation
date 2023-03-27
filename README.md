@@ -1,2 +1,2 @@
 # ScreenPresentation
-Python scrip to automate browser using selenium package. Creates presentation for the viewer 
+Esitys kiltahuoneelle, missä näkyy tulevia tapahtumia, ruokalistoi ja mahdollisia kuvia laitteelta.
